@@ -204,6 +204,7 @@ const MainComponent = () => {
                 return var1;
             })
         }
+        setDialogKey(Math.random());
     }, [SearchText])
 
 
