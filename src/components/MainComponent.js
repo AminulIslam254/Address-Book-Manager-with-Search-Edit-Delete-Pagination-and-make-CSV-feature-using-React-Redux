@@ -195,7 +195,7 @@ const MainComponent = () => {
         }
         else {
             setUserData((prevstate) => {
-                let var1 = userData.filter(
+                let var1 = FinalProducts.filter(
                     (info) => {
                         return (info.name.toLowerCase().includes(SearchText) || info.phone_no.toLowerCase().includes(SearchText))
                     }
