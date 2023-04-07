@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Features include Searching, Editing a contact, Deleting a contact,Pagination, Download all contact as CSV
+
 ## Available Scripts
 
 In the project directory, you can run:
