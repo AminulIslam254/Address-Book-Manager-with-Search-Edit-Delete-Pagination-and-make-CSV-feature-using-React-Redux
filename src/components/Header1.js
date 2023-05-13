@@ -29,7 +29,7 @@ const Header1 = () => {
     <>
       <div style={{ width: "100%", display: "flex", minHeight: 178, justifyContent: "center",height:"fit-content",marginBottom:5 }}>
         <div style={{ display: "flex", flexDirection: "column", width: "82%" }}>
-          <div><h1>Scizers Technologies LLP Assignment</h1></div>
+          <div><h1>Contacts Management Website</h1></div>
           <div style={{ display: "flex", flexDirection: "row", border: "2px solid black", borderRadius: 8, width: "50%" }}>
             <Box
               component="form"
